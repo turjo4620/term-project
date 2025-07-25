@@ -1,1 +1,13 @@
-turjo,0
+1,skhd,850
+1,sfdsaf,850
+1,dda,400
+1,Turjo,350
+1,jhsjhs,300
+1,sjhs,300
+1,tujor,250
+1,kjhkjh,250
+1,dkhdkh,250
+1,dd,150
+1,khsks,100
+2,Turjo,750
+3,Turjo,500
